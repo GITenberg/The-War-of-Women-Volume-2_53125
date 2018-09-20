@@ -1,0 +1,30 @@
+_repo: The-War-of-Women-Volume-2_53125
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - père, Alexandre Dumas
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2016-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53125'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715 -- Fiction'
+- !lcsh 'Fronde -- Fiction'
+- GITenberg
+title: The War of Women, Volume 2
+url: http://www.gutenberg.org/ebooks/53125
